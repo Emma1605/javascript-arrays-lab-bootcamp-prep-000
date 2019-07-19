@@ -31,5 +31,5 @@ function prependKitten(name)
   }
   function removeLastKitten(Garfield)
   {
-    return kittens.slice(0, kittens.lenght-1)
+    return Garfield.slice(0, kittens.lenght-1)
   }
