@@ -33,4 +33,3 @@ function prependKitten(name)
   {
     return kittens.slice(0, kittens.lenght-1)
   }
-  }
