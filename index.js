@@ -11,3 +11,4 @@ function destructivelyPrependKitten(Ralph)
   kittens.unshift(Ralph);
   return kittens
 }
+function destructivelyRemoveLastKitten()
