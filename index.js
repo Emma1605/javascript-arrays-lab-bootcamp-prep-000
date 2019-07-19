@@ -3,5 +3,6 @@ var kittens = ['Milo', 'Otis', 'Garfield'] //define your array here
 // Add your functions and code here
 function dextructivelyAppendKitten(Ralph)
 {
-  kittens.push(Ralph)
+  kittens.push(Ralph);
+  return kittens
 }
